@@ -1,4 +1,4 @@
-# AI Assistant - User-Friendly Setup Guide
+# KOGNAC-COGNITIVE-KERNEL---Comprehensive-AI-Assistant - User-Friendly Setup Guide
 
 ## **Your Personalized AI System**
 
